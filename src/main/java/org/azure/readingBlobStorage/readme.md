@@ -1,6 +1,6 @@
 # Reading from azure blob storage
 
-![ReadingFromAzureBlobStorage.png](ReadingFromAzureBlobStorage.png)
+![ReadingFromAzureBlobStorage.png](images/ReadingFromAzureBlobStorage.png)
 
 ## Maven Dependencies
 
