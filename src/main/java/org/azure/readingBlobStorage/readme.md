@@ -1,6 +1,7 @@
 # Reading from azure blob storage
 
-![ReadingFromAzureBlobStorage.png](https://github.com/sidsriedu/AzureRelated/blob/main/src/main/java/org/azure/readingBlobStorage/images/ReadingFromAzureBlobStorage.png)
+<img width="1130" alt="ReadingFromAzureBlobStorage" src="https://github.com/sidsriedu/AzureRelated/assets/79398876/f528a5a4-8190-4545-8a1f-cc22a572ec25">
+
 
 ## Maven Dependencies
 
